@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I once didn't sleep for 38 hours straight.**
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <p align="center" > <a href="http://shivenvasan.xyz" traget="blank"><img src="https://www.tokyoweekender.com/wp-content/uploads/2023/06/BEAM17-1-export.gif"></a></p>
 
 <br>
