@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Blind computation**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing** and **Cybersecurity**
 
 - 📝 I will start writing articles on linkedin soon **https://medium.com/@demnavzn**
 
