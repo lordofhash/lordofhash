@@ -15,7 +15,7 @@
 
 - 📝 I will start writing articles on linkedin soon **https://medium.com/@demnavzn**
 
-- 💬 Ask me about **Brain networks and neural networks, Anime, Aphex Twin**
+- 💬 Ask me about **BASH, neural networks, anime, Aphex Twin**
 
 - ⚡ Fun fact **I once didn't sleep for 38 hours straight.**
 
