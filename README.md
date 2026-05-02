@@ -1,7 +1,7 @@
 <h1 align="center">Heyya, It's Shiven Vasan</h1>
 
 <div>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=CMU+typewriter+text&pause=970&color=5F74A8&width=435&lines=Student;Tech+Evangelist;Part+time+Philosopher;Full+time+Learner;Doing+coding+for+fun;and+I+like+k+dramas;One+who+rules" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=CMU+typewriter+text&pause=970&color=5F74A8&width=435&lines=Student;Tech+Evangelist;Part+time+Philosopher;Full+time+Learner;Problem-Solving+at+core;Find+Cooking+Therapeutic🍲;F1+fan;(Ferrari+Horses,+2026+is+our+year);One+who+rules" alt="Typing SVG" />
   </div>
 
   <img align="right" alt="coding" width="400" src="https://c.tenor.com/SODppUDOy-gAAAAC/tenor.gif">
@@ -22,7 +22,7 @@
 
 <br>
 <footer>
-Do not contact me. I'm not of this Beta timeline.
+....I'm not of this  timeline. Jk.
 </footer>
 
 <!---
