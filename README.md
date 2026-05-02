@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Cloud Computing** and **Cybersecurity**
 
-- 📝 I will start writing articles on linkedin soon **https://medium.com/@demnavzn**
+- 📝 Let's connect on Linkedin
+**https://www.linkedin.com/in/shivenvasan**
 
 - 💬 Ask me about **BASH, neural networks, anime, Aphex Twin**
 
