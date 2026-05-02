@@ -5,9 +5,6 @@
   </div>
 
   <img align="right" alt="coding" width="400" src="https://c.tenor.com/SODppUDOy-gAAAAC/tenor.gif">
-  
-  
-- ✨ About me **http://shivenvasan.xyz**
 
 - 🔭 I’m currently working on **Blind computation**
 
@@ -17,7 +14,7 @@
 
 - 💬 Ask me about **BASH, neural networks, anime, Aphex Twin**
 
-- ⚡ Fun fact **I once didn't sleep for 38 hours straight.**
+- ⚡ Weird fact **I once didn't sleep for 38 hours straight.**
 
 <br><br>
 <p align="center" > <a href="http://shivenvasan.xyz" traget="blank"><img src="https://www.tokyoweekender.com/wp-content/uploads/2023/06/BEAM17-1-export.gif"></a></p>
