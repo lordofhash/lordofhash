@@ -10,14 +10,15 @@
 
 - 🌱 I’m currently learning **Cloud Computing** and **Cybersecurity**
 
-- 📝These are my <a href="https://www.credly.com/users/shiven-vasan/badges#credly">credly badges </a>...find me on <a href="https://www.linkedin.com/in/shivenvasan"> LinkedIn </a>
+- 📝These are my <a href="https://www.credly.com/users/shiven-vasan/badges#credly">credly badges </a>...
+find me on <a href="https://www.linkedin.com/in/shivenvasan"> LinkedIn </a>
 
 - 💬 Ask me about **BASH, neural networks, anime, Aphex Twin**
 
 - ⚡ Weird fact **I once didn't sleep for 38 hours straight.**
 
 <br><br>
-<p align="center" > <a href="http://shivenvasan.xyz" traget="blank"><img src="https://www.tokyoweekender.com/wp-content/uploads/2023/06/BEAM17-1-export.gif"></a></p>
+<p align="center" > <a href="https://linkedin.com/in/shivenvasan" traget="blank"><img src="https://www.tokyoweekender.com/wp-content/uploads/2023/06/BEAM17-1-export.gif"></a></p>
 
 <br>
 <footer>
