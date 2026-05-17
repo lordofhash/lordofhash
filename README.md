@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing** and **Cybersecurity**
 
-- 📝 These are my credly badges...find me on linkedin
+- 📝 <a href="https://www.credly.com/users/shiven-vasan/badges#credly">These are my credly badges<\a>...find me on linkedin
 **https://www.credly.com/users/shiven-vasan/badges#credly**
 **https://www.linkedin.com/in/shivenvasan**
 
