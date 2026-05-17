@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing** and **Cybersecurity**
 
-- 📝 <a href="https://www.credly.com/users/shiven-vasan/badges#credly">These are my credly badges<\a>...find me on linkedin
-**https://www.credly.com/users/shiven-vasan/badges#credly**
-**https://www.linkedin.com/in/shivenvasan**
+- 📝These are my <a href="https://www.credly.com/users/shiven-vasan/badges#credly">credly badges </a>...find me on <a href="https://www.linkedin.com/in/shivenvasan"> LinkedIn </a>
 
 - 💬 Ask me about **BASH, neural networks, anime, Aphex Twin**
 
